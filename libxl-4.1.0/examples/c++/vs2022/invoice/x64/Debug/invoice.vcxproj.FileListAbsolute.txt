@@ -1,0 +1,2 @@
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\x64\Debug\invoice.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\invoice\x64\Debug\NativeCodeAnalysis.read.1.tlog

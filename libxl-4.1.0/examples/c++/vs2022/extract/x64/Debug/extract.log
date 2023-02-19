@@ -1,0 +1,4 @@
+﻿  extract.cpp
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\extract\extract.cpp(10,12): warning C4101: j: неиспользованная локальная переменная
+  extract.vcxproj -> C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\x64\Debug\extract.exe
+  Скопировано файлов:         1.

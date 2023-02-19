@@ -1,0 +1,18 @@
+Performing C++ SOURCE FILE Test COMPILER_HAS_DEPRECATED_ATTR failed with the following output:
+Change Dir: C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MICROS~1/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_9c763 && [1/2] Building CXX object CMakeFiles\cmTC_9c763.dir\Debug\src.cxx.obj
+FAILED: CMakeFiles/cmTC_9c763.dir/Debug/src.cxx.obj 
+C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1434~1.319\bin\Hostx64\x64\cl.exe  /nologo /TP -DCOMPILER_HAS_DEPRECATED_ATTR -DCMAKE_INTDIR=\"Debug\"  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /showIncludes /FoCMakeFiles\cmTC_9c763.dir\Debug\src.cxx.obj /FdCMakeFiles\cmTC_9c763.dir\Debug\ /FS -c C:\Users\�������������\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(1): error C2065: __deprecated__: необъявленный идентификатор
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(1): error C2062: тип "int" не требуется
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\OpenXLSX_test\MyProject\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(2): error C3861: somefunc: идентификатор не найден
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+__attribute__((__deprecated__)) int somefunc() { return 0; }
+    int main() { return somefunc();}

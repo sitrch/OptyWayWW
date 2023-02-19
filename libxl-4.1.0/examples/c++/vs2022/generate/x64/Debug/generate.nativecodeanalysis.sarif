@@ -1,0 +1,139 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31942.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/examples/c++/vs2022/generate/generate.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "913d58f67c93e6aaa8b05c9b7904f08aeb324167afeb3d94c157350b3893bd94"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/libxl.h"
+          },
+          "hashes": {
+            "sha-256": "b4e91b187d56d0c7136e3f36385121ea322adc191579270004e5b911a808f0b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/ibookt.h"
+          },
+          "hashes": {
+            "sha-256": "aee17aab660259681cfed06e803d4f572895083c3e4693ca0fac01a915c3c5f6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/setup.h"
+          },
+          "hashes": {
+            "sha-256": "1b9a745c02044e9b1bafea0c94878032c8494b3b337b75a77f3ab94d783f6301"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/enum.h"
+          },
+          "hashes": {
+            "sha-256": "115dd0afec97bb73b195a78f488cc6f52dfdcbbeef08fd6aeeebdd3a7262e1b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/isheett.h"
+          },
+          "hashes": {
+            "sha-256": "3edeb0440396c53e5fbf9040132570cca80c1221a0f80ed5fe7f7dc3d4bbfc0b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/iformatt.h"
+          },
+          "hashes": {
+            "sha-256": "d86719316f063969cb1576e3a4b50612ba6e0250d540faba2799bfc6758b374e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/ifontt.h"
+          },
+          "hashes": {
+            "sha-256": "9147858667c09f2292fa3185a2a5711faa54a36313895abf8f186c2462c36432"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/iautofiltert.h"
+          },
+          "hashes": {
+            "sha-256": "81be1464ffe3e5d8424607faafe9d90a120eb3b8c89c9857ef365329ede9c34e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/ifiltercolumnt.h"
+          },
+          "hashes": {
+            "sha-256": "d3f10d3a75d9f249619bd6a0375359d0f51e3144d033c9fe511a831fd87e9431"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/irichstringt.h"
+          },
+          "hashes": {
+            "sha-256": "2473e3c93d9162ff8616daec5a8adb27cb6ca2e0787c9d76565d2db7b334b812"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/iformcontrolt.h"
+          },
+          "hashes": {
+            "sha-256": "af5a5da0593b61f45c51082a9728624e1b41787b43573c5a8e2bbaaacf2797c3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/iconditionalformatt.h"
+          },
+          "hashes": {
+            "sha-256": "9eb2f366ff873317d8560c17b2eb6632a87dae2065077cda2e4c95d5584b738e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/администратор/documents/github/optywayww/libxl-4.1.0/include_cpp/iconditionalformattingt.h"
+          },
+          "hashes": {
+            "sha-256": "b7389ae97b7f7918829e053c7ec0f1010c70af4b52da32ab2aa45ee502200999"
+          }
+        }
+      ]
+    }
+  ]
+}

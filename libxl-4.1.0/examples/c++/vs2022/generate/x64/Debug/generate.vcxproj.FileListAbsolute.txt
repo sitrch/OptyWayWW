@@ -1,0 +1,2 @@
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\x64\Debug\generate.exe.lastcodeanalysissucceeded
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\libxl-4.1.0\examples\c++\vs2022\generate\x64\Debug\NativeCodeAnalysis.read.1.tlog

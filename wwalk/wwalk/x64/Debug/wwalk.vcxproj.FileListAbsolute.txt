@@ -1,0 +1,4 @@
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\wwalk\wwalk\x64\Debug\wwalk.vcxproj.AssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\wwalk\wwalk\x64\Debug\wwalk.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\wwalk\wwalk\x64\Debug\wwalk.MainForm.resources
+C:\Users\Администратор\Documents\GitHub\OptyWayWW\wwalk\wwalk\x64\Debug\wwalk.vcxproj.GenerateResource.cache

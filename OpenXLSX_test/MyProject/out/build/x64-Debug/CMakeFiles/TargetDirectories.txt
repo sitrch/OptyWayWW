@@ -1,0 +1,10 @@
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/MyProject.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/OpenXLSX/CMakeFiles/OpenXLSX.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/OpenXLSX/CMakeFiles/edit_cache.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/OpenXLSX/CMakeFiles/rebuild_cache.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/OpenXLSX/CMakeFiles/install.dir
+C:/Users/Администратор/Documents/GitHub/OptyWayWW/OpenXLSX_test/MyProject/out/build/x64-Debug/OpenXLSX/CMakeFiles/install/local.dir
